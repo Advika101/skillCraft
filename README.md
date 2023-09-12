@@ -1,6 +1,9 @@
 SkillCraft
 
-Make a venv and then run => to run streamlit
+Make venv:
+https://docs.python.org/3/library/venv.html
+
+Activate venv and then run => to run streamlit
 
 pip install -r requirements.txt
 
